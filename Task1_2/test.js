@@ -1,7 +1,7 @@
 // TASK 1
 // Build an Array & set to variable:
 
-let toc = ["swr", "GWR", "gtr", "lner"];
+let toc = ["swr", "gwr", "gtr", "lner"];
 
 console.log(`My array: ${toc}`);
 
